@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Канадский доллар",
+    "currency": "CAD"
+  },
+  {
+    "name": "Гонконгский доллар",
+    "currency": "HKD"
+  },
+  {
+    "name": "Исландская крона",
+    "currency": "ISK"
+  },
+  {
+    "name": "Филиппинское песо",
+    "currency": "PHP"
+  },
+  {
+    "name": "Датская крона",
+    "currency": "DKK"
+  },
+  {
+    "name": "Венгерский форинт",
+    "currency": "HUF"
+  },
+  {
+    "name": "Чешская крона",
+    "currency": "CZK"
+  },
+  {
+    "name": "Фунт стерлингов",
+    "currency": "GBP"
+  },
+  {
+    "name": "Румынский лей",
+    "currency": "RON"
+  },
+  {
+    "name": "Шведская крона",
+    "currency": "SEK"
+  },
+  {
+    "name": "Индонезийская рупия",
+    "currency": "IDR"
+  },
+  {
+    "name": "Индийская рупия",
+    "currency": "INR"
+  },
+  {
+    "name": "Бразильский реал",
+    "currency": "BRL"
+  },
+  {
+    "name": "Российский рубль",
+    "currency": "RUB"
+  },
+  {
+    "name": "Хорватская куна",
+    "currency": "HRK"
+  },
+  {
+    "name": "Японская иена",
+    "currency": "JPY"
+  },
+  {
+    "name": "Тайский бат",
+    "currency": "THB"
+  },
+  {
+    "name": "Швейцарский франк",
+    "currency": "CHF"
+  },
+  {
+    "name": "Евро",
+    "currency": "EUR"
+  },
+  {
+    "name": "Малайзийский ринггит",
+    "currency": "MYR"
+  },
+  {
+    "name": "Болгарский лев",
+    "currency": "BGN"
+  },
+  {
+    "name": "Турецкая лира",
+    "currency": "TRY"
+  },
+  {
+    "name": "Жэньминьби",
+    "currency": "CNY"
+  },
+  {
+    "name": "Норвежская крона",
+    "currency": "NOK"
+  },
+  {
+    "name": "Новозеландский доллар",
+    "currency": "NZD"
+  },
+  {
+    "name": "Южноафриканский рэнд",
+    "currency": "ZAR"
+  },
+  {
+    "name": "Доллар США",
+    "currency": "USD"
+  },
+  {
+    "name": "Мексиканское песо",
+    "currency": "MXN"
+  },
+  {
+    "name": "Сингапурский доллар",
+    "currency": "SGD"
+  },
+  {
+    "name": "Австралийский доллар",
+    "currency": "AUD"
+  },
+  {
+    "name": "Новый израильский шекель",
+    "currency": "ILS"
+  },
+  {
+    "name": "Южнокорейская вона",
+    "currency": "KRW"
+  },
+  {
+    "name": "Польский злотый",
+    "currency": "PLN"
+  }
+
+]
