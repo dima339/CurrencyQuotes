@@ -76,7 +76,7 @@ import com.android.build.OutputFile
  */
 
 project.ext.react = [
-    entryFile: "Root.js",
+    entryFile: "app.js",
     enableHermes: false,  // clean and rebuild if changing
 ]
 
@@ -192,7 +192,8 @@ dependencies {
     implementation project(':react-native-reanimated')
     implementation fileTree(dir: "libs", include: ["*.jar"])
     implementation "com.facebook.react:react-native:+"  // From node_modules
-
+    implementation "com.android.support:support-v4:19.0.+"
+    implementation "com.android.support:appcompat-v7:${rootProject.ext.supportLibVersion}"
     if (enableHermes) {
       def hermesPath = "../../node_modules/hermesvm/android/";
       debugImplementation files(hermesPath + "hermes-debug.aar")
