@@ -68,7 +68,7 @@ class Currency extends Component {
 
             const lastPrice = lodash.find(last, {name: currency}).price
 
-            return (1 / lastPrice)
+            return (1 / lastPrice).toFixed(2)
         } else {
             return null
         }
@@ -115,7 +115,7 @@ class Currency extends Component {
                                             <Text {...{style: styles.description}}>ЦБ на сегодня</Text>
                                             <View {...{style: styles.row}}>
                                                 <Text {...{style: [styles.title, {marginRight: 10}]}}>
-                                                    {this.yesterdayPrice(item.name).toFixed(2)}
+                                                    {item.name ?this.yesterdayPrice(item.name) : '-'}
                                                 </Text>
 
                                                 {(this.yesterdayPrice(item.name) - this.beforeYesterdayPrice(item.name)) !== 0
